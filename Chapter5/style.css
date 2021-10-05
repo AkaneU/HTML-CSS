@@ -11,10 +11,11 @@ header {
 }
 
 .nav-list {
+  text-align: center;
   margin: 0 auto;
-  padding: 15px 20px;
-  border-top: solid gray;
-  border-bottom: solid gray;
+  padding: 15px 0;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
 }
 
 .nav-list-item {
@@ -25,13 +26,9 @@ header {
 
 .main {
   width: 800px;
-  height: 700px;
-  text-align: center;
   display: flex;
-  justify-content: center;
   flex-flow: row wrap;
-  margin: 0 auto;
-  padding: 50px 0;
+  margin: 50px auto;
 }
 
 .box1 {
@@ -79,7 +76,7 @@ header {
 .box8 {
   width: 200px;
   height: 200px;
-  background-color: #e4ffa5;
+  background-color: #e4ff8d;
 }
 
 .box9 {
